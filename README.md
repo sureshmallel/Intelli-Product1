@@ -7,6 +7,6 @@
 master
 
 #User Branches
-IC Program
-ESP Program
+ICProgram
+ESPProgram
 
