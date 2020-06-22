@@ -6,7 +6,7 @@
 
 #Production Branch
 master
-#Preproduction branch
+#Preproduction branch (This release will be done on 25th of every month)
 
 #User Branches
 ICProgram
